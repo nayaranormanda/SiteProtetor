@@ -1,0 +1,53 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+.empresas{
+padding: 10px;	
+color: #FE9A2E;
+}
+
+#xml{
+	
+	margin: 25px;
+	margin-left: 40%;
+	color: #FE9A2E;
+}
+
+.card{
+	margin: 15px;
+	padding: 3px;
+	margin-left: 20%;
+	float: left;
+	text-align: center;
+
+
+}
+
+.card-body{
+	color: #FE9A2E;
+}
+.borda{
+  margin: 20%;
+  border-width: 2px;
+  border-style: dashed;
+  border-color:#939393;
+  margin-left: 20%;
+width: 69%;
+background-color: white;
+padding-bottom: 50px;
+text-align: center;
+font-size: #6c757d;
+  }
+
+.adm{
+	text-align: center;
+}
+
+
+/*Dados da empresa
+.card-header{
+	float: left;
+
+}*/
